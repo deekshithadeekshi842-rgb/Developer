@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Aether Cloud Notebook Studio",
+  "description": "A high-performance, developer-focused GPU notebook environment for seamless machine learning development, experiment tracking, and model deployment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
